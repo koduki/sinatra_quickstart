@@ -1,0 +1,6 @@
+Sinatra Quick Start for JRuby
+
+Simples exemple to make JRuby war.
+
+bundle
+rake war
